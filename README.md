@@ -1,5 +1,5 @@
-## jarvis
-#Public Version of Jarvis Bot used for LIMIT 2020 Online Camp Discord Server
+# Jarvis
+## Public Version of Jarvis Bot used for LIMIT 2020 Online Camp Discord Server
 
 Jarvis is a completely private bot made by me to help in managing the Discord Server
 of LIMIT 2020 Online Camp.

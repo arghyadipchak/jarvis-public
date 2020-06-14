@@ -377,17 +377,17 @@ async def mail(ctx,*args):
         return
     lt = []
     if 'A' in args or 'a' in args:
-        lt.extend([
+        lt.extend([                         #Email ID of Category A Students
         'email1@gmail.com',
         'email2@gmail.com',
         ])
     if 'B' in args or 'b' in args:
-        lt.extend([
+        lt.extend([                         #Email ID of Category B Students
         'email3@gmail.com',
         'email4@gmail.com',
         ])
     if 'Team' in args or 'team' in args or 'Team' in args:
-        lt.extend([
+        lt.extend([                         #Email ID of LIMIT Team Members
         'arghyadip.chak16@gmail.com',
         'email5@gmail.com',
         ])send('\n'.join(lt))
